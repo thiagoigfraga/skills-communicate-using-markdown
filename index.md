@@ -4,3 +4,7 @@
 ```javascript
 console.log("Hello, World! This is Javascript.")
 ```
+
+- [x] love cats
+- [x] love pizza
+- [x] love coding
